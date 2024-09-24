@@ -1,6 +1,6 @@
 # Multi-Target Cross-Lingual Summarization
 
-Source code for the paper.
+Source code for the EMNLP 2024 (Findings) paper [Multi-Target Cross-Lingual Summarization: a novel task and a language-neutral approach](https://arxiv.org).
 
 ## Setup
 
@@ -75,3 +75,20 @@ python evaluate.py --predictions=./predictions_en.jsonl --source_lang=en --split
 ```
 
 This will create a JSON file with the results of the evaluation for each target language according to several metrics.
+
+## Citation
+
+```
+@inproceedings{pernes-etal-2024-mtxls,
+    title = "Multi-Target Cross-Lingual Summarization: a novel task and a language-neutral approach",
+    author = "Pernes, Diogo  and
+      Correia, Gon\c{c}alo M.  and
+      Mendes, Afonso",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org",
+}
+```
