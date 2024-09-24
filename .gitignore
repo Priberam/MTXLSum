@@ -1,0 +1,11 @@
+.vscode
+env
+predictions
+__pycache__
+*.pyc
+*.txt
+*.jsonl
+*.json
+*.sh
+*.log
+*_dbg.py

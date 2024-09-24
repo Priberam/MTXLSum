@@ -1,0 +1,13 @@
+comet==3.1.0
+datasets==2.14.3
+Dijkstar==2.6.0
+fairseq2==0.2.0
+fasttext==0.9.2
+iso_639==0.4.5
+networkx==3.0
+numpy==1.24.1
+Requests==2.31.0
+scipy==1.13.0
+sonar==0.5.0
+tqdm==4.65.0
+transformers==4.31.0
