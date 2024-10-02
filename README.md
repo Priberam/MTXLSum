@@ -89,6 +89,6 @@ This will create a JSON file with the results of the evaluation for each target 
     year = "2024",
     address = "Miami, Florida",
     publisher = "Association for Computational Linguistics",
-    url = "https://arxiv.org",
+    url = "https://arxiv.org/abs/2410.00502",
 }
 ```
