@@ -79,16 +79,21 @@ This will create a JSON file with the results of the evaluation for each target 
 ## Citation
 
 ```
-@inproceedings{pernes-etal-2024-mtxls,
+@inproceedings{pernes-etal-2024-multi,
     title = "Multi-Target Cross-Lingual Summarization: a novel task and a language-neutral approach",
     author = "Pernes, Diogo  and
-      Correia, Gon\c{c}alo M.  and
+      Correia, Gon{\c{c}}alo M.  and
       Mendes, Afonso",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
     booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
     month = nov,
     year = "2024",
-    address = "Miami, Florida",
+    address = "Miami, Florida, USA",
     publisher = "Association for Computational Linguistics",
-    url = "https://arxiv.org/abs/2410.00502",
+    url = "https://aclanthology.org/2024.findings-emnlp.755",
+    pages = "12908--12924",
+    abstract = "Cross-lingual summarization aims to bridge language barriers by summarizing documents in different languages. However, ensuring semantic coherence across languages is an overlooked challenge and can be critical in several contexts. To fill this gap, we introduce multi-target cross-lingual summarization as the task of summarizing a document into multiple target languages while ensuring that the produced summaries are semantically similar. We propose a principled re-ranking approach to this problem and a multi-criteria evaluation protocol to assess semantic coherence across target languages, marking a first step that will hopefully stimulate further research on this problem.",
 }
 ```
