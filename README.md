@@ -1,6 +1,6 @@
 # Multi-Target Cross-Lingual Summarization
 
-Source code for the EMNLP 2024 (Findings) paper [Multi-Target Cross-Lingual Summarization: a novel task and a language-neutral approach](https://arxiv.org).
+Source code for the EMNLP 2024 (Findings) paper [Multi-Target Cross-Lingual Summarization: a novel task and a language-neutral approach](https://aclanthology.org/2024.findings-emnlp.755).
 
 ## Setup
 
